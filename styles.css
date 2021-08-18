@@ -1,0 +1,49 @@
+body {
+    background: url(/Picture/pbg1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%100%;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: algerian;
+    color: #feb300;
+    text-shadow: 3px 3px red;
+    margin-left: 225px;
+    margin-bottom: 290px;
+}
+
+h2 {
+    font-size: 80px;
+    font-family: algerian;
+    color: #feb300;
+    text-shadow: 3px 3px red;
+    margin-left: 990px;
+    margin-top: 190px;
+}
+
+p {
+    font-family: book antiqua;
+    font-size: 30px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    color: sky blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+button{
+    font-size:30px;
+}
